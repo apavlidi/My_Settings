@@ -17,3 +17,9 @@ I have also have settings for some plugins installed. Plugins are not exported b
 - [Presentation Assistant](https://plugins.jetbrains.com/plugin/7345-presentation-assistant)
 - [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 - [JRebel](https://plugins.jetbrains.com/plugin/4441-jrebel-for-intellij)
+
+
+### JShell
+
+The `myStartup.jsh` file contains a command to change the default editor of the jshell. <br>
+To apply this startup file you need to open a jshell session and run the following command `/set start myStartup.jsh -retain DEFAULT`
