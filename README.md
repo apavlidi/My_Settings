@@ -18,6 +18,8 @@ I have also have settings for some plugins installed. Plugins are not exported b
 - [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 - [JRebel](https://plugins.jetbrains.com/plugin/4441-jrebel-for-intellij)
 
+#### Live Templates
+Head to the wiki for [live templates documentation](https://github.com/apavlidi/My_Settings/wiki/Live-Templates)
 
 ### JShell
 
