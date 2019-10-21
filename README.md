@@ -31,5 +31,5 @@ To apply this startup file you need to open a jshell session and run the followi
 
 Java batches are for switching between different JDK versions in Windows. <br>
 Run `jdk8.bat` to set jdk8 <br>
-Run `jdk11.bat` to set jdk11
+Run `jdk11.bat` to set jdk11 <br>
 To change jdk in linux just run `update-alternatives --config java`
