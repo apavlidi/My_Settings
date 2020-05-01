@@ -1,9 +1,12 @@
+[user]
+	email = apavlidi@it.teithe.gr
+	name = Alexis Pavlidis
 [alias]
-        st = status
-        cm = commit
-        logPretty = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	st = status
+	cm = commit
+	logPretty = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 [core]
-        editor = nano -w~
+	editor = nano
 [credential]
 [credential]
-        helper = store
+	helper = store
